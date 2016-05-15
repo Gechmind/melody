@@ -11,7 +11,8 @@ Any one who describes the external world must use concepts.The more concepts we 
 
 # SYSTEM WORK
 *  元操作
-    -  概念池提取 <爬虫持续导入wiki元概念>
+    -  概念池提取 （基础数据获取方式需要探索，wiki中的词条概念如果只通过链接是无法正确获取关系的
+    -  ）
     -  创建概念 
     -  继承概念
     -  定义子概念
